@@ -279,9 +279,9 @@ retail-demand-forecast/
 ├── README.md
 ├── 需要予測PF_20260426.ipynb
 └── images/
-    ├── daily_sales.png
-    ├── stl_decomposition.png
+    ├── actual_vs_pred.png
     ├── feature_importance.png
+    ├── residual_distribution.png
+    ├── sales_trend.png
     ├── shap_summary.png
-    ├── actual_vs_predicted.png
-    └── residual_distribution.png
+    └── stl_decomposition.png
